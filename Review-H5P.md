@@ -55,6 +55,5 @@ H5P sangat direkomendasikan bagi guru, pengembang e-learning, dan institusi pend
 
 ---
 
-## **Sumber Informasi**
-- [H5P.org](https://h5p.org)
-- Review komunitas pengguna H5P
+## **Link Media Pembelajaran dengan H5P**
+[Klik disini].(https://mediapembelajaran-maysarah.h5p.com/content/1292445035845259859)
